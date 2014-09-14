@@ -1,4 +1,4 @@
-Yokohama.js (#yjs20140914)
+Yokohama.js (#yokohamajs)
 
 ## この夏、私が出会ったバグ達
 
